@@ -1,0 +1,1 @@
+Tip 1: Make sure your wifi is password protected
