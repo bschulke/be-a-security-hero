@@ -11,4 +11,4 @@ It’s easy to forget that your home wifi needs protecting, because unlike your 
 
 It’s the same for your network; if an attacker connected to your network without your permission, they could get into that fancy work computer your company gave you, or look through your private files on your home computer. Either way, it would be bad!
 
-That’s why it’s up to you to become a Security Hero ™ and keep your devices safe by improving your home security! :)
+That’s why it’s up to you to become a Security Hero ™ and keep your devices safe by improving your home security! 😃
